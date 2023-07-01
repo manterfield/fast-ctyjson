@@ -2,9 +2,9 @@ package ctyjson
 
 import (
 	"bytes"
-	"encoding/json"
 	"fmt"
 
+	"github.com/goccy/go-json"
 	"github.com/zclconf/go-cty/cty"
 )
 

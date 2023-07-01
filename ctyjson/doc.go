@@ -8,4 +8,4 @@
 // and pass it in consistently both when encoding and when decoding, though
 // default (type-lossy) behavior is provided for situations where the precise
 // representation of the data is not significant.
-package json
+package ctyjson
