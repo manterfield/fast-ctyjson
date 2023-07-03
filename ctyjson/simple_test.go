@@ -1,9 +1,9 @@
 package ctyjson
 
 import (
-	"encoding/json"
 	"testing"
 
+	"github.com/goccy/go-json"
 	"github.com/zclconf/go-cty/cty"
 )
 
