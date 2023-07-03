@@ -1,6 +1,6 @@
 # JSON serialization of `cty` values
 
-> Note: This is a fork of the `go-cty/cty/json` package with a drop-in replacement of `goccy/go-json` for stdlib's `json` package. All links and docs below relate to the original package which is intended to behave identically.
+> Note: This is a fork of the `go-cty/cty/json` package with a drop-in replacement of the stdlib's `json` for `goccy/go-json`. All links and docs below relate to the original package which is intended to behave identically.
 
 [The `json` package](https://godoc.org/github.com/zclconf/go-cty/cty/json)
 allows `cty` values to be serialized as JSON and decoded back into `cty` values.
